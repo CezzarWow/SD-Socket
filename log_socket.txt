@@ -1,0 +1,34 @@
+Thu Dec 11 18:04:26 UTC 2025
+Waiting for connection...
+Step 1: Create a Socket to make connection.
+Attempting connection...
+Connected to: localhost
+Step 2: Get the output streams.
+Connection received from: localhost
+Step 3: Get output streams.
+Step 3: output.flush();
+Step 2: output.flush()
+Step 2: Get the input streams.
+Step 3: Get input streams.
+Got I/O streams
+
+Got I/O streams
+
+CLIENT>>> 
+CLIENT>>> olá
+SERVER>>> 
+SERVER>>> tudo certo! vou sair da conversa ok?
+CLIENT>>> 
+CLIENT>>> ok
+SERVER>>> 
+SERVER>>> 
+CLIENT>>> 
+CLIENT>>> ok
+SERVER>>> 
+SERVER>>> 
+CLIENT>>> 
+CLIENT>>> sair
+SERVER>>> 
+SERVER>>> sair
+Closing connection.
+Client terminated connection
